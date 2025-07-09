@@ -1,4 +1,4 @@
-# Musec Pico - MUSECA Style Mini Controller
+# Musec Pico - MUSECA Style Mini Controller (RP2040 Edition)
 [点这里可以切换到中文版](README_CN.md)
 
 <img src="doc/main.jpg" width="80%">
@@ -6,6 +6,8 @@
 There're two versions. Musec Pico uses 52mm spinners and Musec Pico+ uses 74mm spinners. They have the same structure and function the same.
 
 Features:
+* Built in surge protection
+* Built in RP2040
 * It's small but closely replicates the feel of the arcade controller.
 * Built-in "spacebar" pedal.
 * External pedal support through the 3.5mm jack.
